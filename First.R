@@ -9,3 +9,8 @@ c
 rm(c)
 ls()
 rm(list=ls())
+
+a <- 3
+b <- 4
+c <- (a + b) * (a - b)
+c
